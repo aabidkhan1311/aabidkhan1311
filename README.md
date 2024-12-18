@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aabidkhan1311" alt="aabidkhan1311" /></a> </p>
 
-- 🔭 I’m currently working on **Nasa Space App Challenge**
 
-- 🌱 I’m currently learning **DSA with C++**
+
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Unity Game Engine and C#**
 
